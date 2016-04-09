@@ -1,0 +1,10 @@
+{
+  "name": "external-npm",
+  "private": true,
+  "dependencies": {
+    "camelcase": "2.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.15"
+  }
+}

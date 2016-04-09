@@ -1,0 +1,7 @@
+# sbt specific
+dist/*
+target/
+
+# Idea
+.idea/
+.idea_modules/

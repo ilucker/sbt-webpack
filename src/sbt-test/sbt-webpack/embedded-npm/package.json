@@ -1,0 +1,7 @@
+{
+  "name": "embedded-npm",
+  "private": true,
+  "dependencies": {
+    "camelcase": "2.0.1"
+  }
+}

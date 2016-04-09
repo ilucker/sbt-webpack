@@ -1,0 +1,7 @@
+> assets
+$ exists target/web/webpack/main/bundle.js
+$ must-mirror target/web/webpack/main/bundle.js out/bundle.js
+
+> web-stage
+$ exists target/web/stage/bundle.js
+$ must-mirror target/web/stage/bundle.js out/bundle.js
